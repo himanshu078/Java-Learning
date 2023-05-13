@@ -2,7 +2,7 @@ package abstractionConcepts;
 
 public abstract class AddProductToCart {
 	
-	
+	//This class is to add products to cart using a abstract concepts
 	public abstract void productCategory();
 	
 	public void productName(String productName) {
